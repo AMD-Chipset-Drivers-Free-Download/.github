@@ -1,6 +1,6 @@
 # AMD Chipset Drivers for Windows – Official Driver Installation
 
-![AMD Chipset Driver Banner](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-06.png)
+![AMD Chipset Driver Banner](https://upload.wikimedia.org/wikipedia/commons/1/16/AMD_Chipset_Logo_2011-2013.png)
 
 ## 📥 Download AMD Chipset Drivers for Windows
 
@@ -18,7 +18,7 @@ To install AMD Chipset Drivers:
 4. Complete the installation and restart your system if prompted.  
 5. Enjoy the improved performance and stability of your AMD motherboard and CPU.
 
-[![AMD Chipset Driver Setup](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-10.png)](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-10.png)
+[![AMD Chipset Driver Setup](https://i.ibb.co/G34jKMt1/chipset-install-06.jpg)](https://i.ibb.co/G34jKMt1/chipset-install-06.jpg)
 
 ---
 
@@ -32,7 +32,7 @@ The drivers support various chipsets, including those for Ryzen processors and A
 
 ---
 
-![AMD Chipset Drivers Interface](https://www.amd.com/content/dam/amd/en/images/kb/chipset-install/chipset-install-06.png)
+![AMD Chipset Drivers Interface](https://i.ibb.co/bgc9ybqS/chipset-install-10.jpg)
 
 ---
 
